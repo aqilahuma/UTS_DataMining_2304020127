@@ -1,4 +1,4 @@
-# UTS_DataMining_2304020127
+# UTS_DataMining_Mufida Aqila Humaidah_2304020127
 Langkah-Langkah
 A. PERSIAPAN DATA
 1. Import Data
